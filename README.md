@@ -1,5 +1,6 @@
 # ShopWithEase-Website
 Ecommerce Website
+
 Welcome to your Lovable project
 Project info
 URL: https://lovable.dev/projects/d40249e6-f682-4175-9abb-fa87c8b75c98
